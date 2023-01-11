@@ -1,8 +1,14 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+![DaniloP85](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611f89cbecec7b72ca0ec8f1cab73593841e48e1ce1&rid=giphy.gif&ct=g)
+# Hi , I'm Danilo Santos
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaniloP85&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="DaniloP85" /></p>
+I'm a software engineer, at Itau Unibanco working on digital channels for corporate clients.
 
+## Find me around the web 🌎:
+
+- [LinkedIn](https://www.linkedin.com/in/danilopsnts/)
+- [Twitter](https://twitter.com/danilopsnts)
+- [instagram](https://www.instagram.com/dpsnqmk)
+
+|  |  |
+| --- | --- |
+| ![DaniloP85](https://github-readme-stats.vercel.app/api/top-langs?username=DaniloP85&show_icons=true&locale=en&theme=github_dark) | ![DaniloP85](https://github-readme-stats.vercel.app/api?username=DaniloP85&show_icons=true&theme=github_dark)|
