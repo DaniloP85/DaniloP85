@@ -45,4 +45,6 @@ I'm a software engineer, at Itau Unibanco working on digital channels for corpor
 [![mongodb](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)](https://www.mongodb.com/)
 [![mysql](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)](https://www.mysql.com/)
 [![postgresql](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)](https://www.postgresql.org)
+[![webpack](https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg)](https://webpack.js.org/)
+[![firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)](https://firebase.google.com/)
 </p>
