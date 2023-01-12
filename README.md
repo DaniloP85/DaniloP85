@@ -34,7 +34,6 @@ I'm a software engineer, at Itau Unibanco working on digital channels for corpor
 [![aws](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg)](https://aws.amazon.com)
 [![kafka](https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg)](https://kafka.apache.org/)
 [![rabbitMQ](https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg)](https://www.rabbitmq.com)
-[![firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)](https://firebase.google.com/)
 [![markdown](https://www.vectorlogo.zone/logos/markdown-here/markdown-here-icon.svg)](https://www.markdownguide.org/)
 [![jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)](https://www.jenkins.io)
 [![vagrant](https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg)](https://www.vagrantup.com/)
